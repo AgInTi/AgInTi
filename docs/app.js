@@ -8,9 +8,8 @@ const translations = {
     githubTop: "AgInTiFlow GitHub",
     languageLabel: "Language",
     eyebrow: "Autonomous laboratory intelligence",
-    heroTitle: "Autonomous lab systems for chemistry and biomedicine.",
-    heroLead:
-      "AgInTi builds high-control AI infrastructure for scientific teams: agents that reason over protocols, operate digital tools, preserve experimental context, and keep humans in command.",
+    heroTitle: "Autonomous labs. Faster discovery.",
+    heroLead: "AI agents for chemistry and biomedicine: plan, operate, remember, and report.",
     primaryCta: "Discuss a lab workflow",
     secondaryCta: "View AgInTiFlow",
     cardLabel: "Lab automation stack",
@@ -54,9 +53,8 @@ const translations = {
     githubTop: "AgInTiFlow GitHub",
     languageLabel: "語言",
     eyebrow: "自主實驗室智能",
-    heroTitle: "面向化學與生物醫學的自主實驗室系統。",
-    heroLead:
-      "AgInTi 為科研團隊打造高可控 AI 基礎設施：智能體能理解實驗流程、操作數位工具、保留實驗上下文，並讓人始終掌握決策權。",
+    heroTitle: "自主實驗室。更快發現。",
+    heroLead: "面向化學與生物醫學的 AI 智能體：規劃、操作、記憶、報告。",
     primaryCta: "討論實驗室流程",
     secondaryCta: "查看 AgInTiFlow",
     cardLabel: "實驗室自動化堆疊",
