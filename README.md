@@ -2,6 +2,8 @@
 
 Static company landing site for AgInTi, also known as `銀銦釱科技股份有限公司`.
 
+Positioning: autonomous laboratory intelligence for chemistry, biomedicine, and scientific operations.
+
 Custom domain: `https://agent.lazying.art/`
 
 The GitHub Pages site lives in `docs/`:

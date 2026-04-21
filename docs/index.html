@@ -5,17 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta
       name="description"
-      content="AgInTi builds AI automation systems for browser control, workflow agents, and intelligent operations."
+      content="AgInTi builds autonomous laboratory intelligence for chemistry, biomedicine, and scientific operations."
     />
-    <meta property="og:title" content="AgInTi | AI Automation Systems" />
+    <meta property="og:title" content="AgInTi | Autonomous Lab Intelligence" />
     <meta
       property="og:description"
-      content="AgInTi builds AI automation systems for browser control, workflow agents, and intelligent operations."
+      content="AgInTi builds autonomous laboratory intelligence for chemistry, biomedicine, and scientific operations."
     />
     <meta property="og:url" content="https://agent.lazying.art/" />
     <meta property="og:type" content="website" />
     <link rel="canonical" href="https://agent.lazying.art/" />
-    <title>AgInTi | AI Automation Systems</title>
+    <title>AgInTi | Autonomous Lab Intelligence</title>
     <link rel="icon" type="image/png" href="./assets/aginti-logo.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -39,65 +39,74 @@
       </a>
 
       <nav class="nav-links" aria-label="Primary navigation">
-        <a href="#platform" data-i18n="navPlatform">Platform</a>
+        <a href="#platform" data-i18n="navPlatform">Lab OS</a>
         <a href="#systems" data-i18n="navSystems">Systems</a>
+        <a href="#flow" data-i18n="navFlow">AgInTiFlow</a>
         <a href="#contact" data-i18n="navContact">Contact</a>
       </nav>
 
-      <label class="language-switch">
-        <span data-i18n="languageLabel">Language</span>
-        <select id="language-select" aria-label="Select language">
-          <option value="en">English</option>
-          <option value="zh-Hant">繁體中文</option>
-        </select>
-      </label>
+      <div class="header-actions">
+        <a class="github-pill" href="https://github.com/lazyingart/AgInTiFlow" target="_blank" rel="noreferrer" data-i18n="githubTop">
+          AgInTiFlow GitHub
+        </a>
+        <label class="language-switch">
+          <span data-i18n="languageLabel">Language</span>
+          <select id="language-select" aria-label="Select language">
+            <option value="en">English</option>
+            <option value="zh-Hant">繁體中文</option>
+          </select>
+        </label>
+      </div>
     </header>
 
     <main id="top">
       <section class="hero">
         <div class="hero-copy">
-          <p class="eyebrow" data-i18n="eyebrow">AI automation product lab</p>
-          <h1 data-i18n="heroTitle">Liquid intelligence for browser work, agents, and operations.</h1>
+          <p class="eyebrow" data-i18n="eyebrow">Autonomous laboratory intelligence</p>
+          <h1 data-i18n="heroTitle">Autonomous lab systems for chemistry and biomedicine.</h1>
           <p class="hero-lede" data-i18n="heroLead">
-            AgInTi designs practical AI systems that control websites, operate tools, and turn repeatable digital work into reliable agent flows.
+            AgInTi builds high-control AI infrastructure for scientific teams: agents that reason over protocols, operate digital tools, preserve experimental context, and keep humans in command.
           </p>
           <div class="hero-actions">
-            <a class="button primary" href="#contact" data-i18n="primaryCta">Start a conversation</a>
-            <a class="button secondary" href="#platform" data-i18n="secondaryCta">Explore the platform</a>
+            <a class="button primary" href="#contact" data-i18n="primaryCta">Discuss a lab workflow</a>
+            <a class="button secondary" href="#flow" data-i18n="secondaryCta">View AgInTiFlow</a>
           </div>
         </div>
 
         <aside class="hero-card" aria-label="AgInTi automation stack">
-          <div class="orbital-logo">
-            <span class="chip-ring"></span>
+          <div class="hero-card-top">
             <img class="hero-logo" src="./assets/aginti-logo.png" alt="AgInTi logo" />
+            <div>
+              <p class="card-label" data-i18n="cardLabel">Lab automation stack</p>
+              <strong data-i18n="cardHeadline">AI controlled. Human governed.</strong>
+            </div>
           </div>
           <div class="signal-list">
-            <span data-i18n="signalOne">Browser control</span>
-            <span data-i18n="signalTwo">Workflow memory</span>
-            <span data-i18n="signalThree">Guarded tools</span>
+            <span data-i18n="signalOne">Chemistry workflows</span>
+            <span data-i18n="signalTwo">Biomedical research ops</span>
+            <span data-i18n="signalThree">Guarded agent tools</span>
           </div>
         </aside>
       </section>
 
       <section id="platform" class="section split">
         <div>
-          <p class="eyebrow" data-i18n="platformEyebrow">What we build</p>
-          <h2 data-i18n="platformTitle">Agent products with visible control and durable memory.</h2>
+          <p class="eyebrow" data-i18n="platformEyebrow">Lab operating layer</p>
+          <h2 data-i18n="platformTitle">From scientific intent to repeatable autonomous execution.</h2>
         </div>
         <p data-i18n="platformText">
-          We focus on automation that can be inspected, resumed, and trusted: browser agents, shell-assisted workflows, human-in-the-loop dashboards, and productized AI tools.
+          We design agent systems for protocol planning, literature and data operations, instrument-adjacent workflows, and high-trust review loops across chemistry, biology, and biomedicine.
         </p>
       </section>
 
-      <section class="section product-callout">
+      <section id="flow" class="section product-callout">
         <div>
-          <p class="eyebrow" data-i18n="productEyebrow">Featured product</p>
+          <p class="eyebrow" data-i18n="productEyebrow">Open product</p>
           <h2 data-i18n="productTitle">AgInTiFlow</h2>
         </div>
         <div class="product-copy">
           <p data-i18n="productText">
-            AgInTiFlow is AgInTi's website-control agent for browser automation, persistent chat, resumable runs, provider selection, and guarded local tools.
+            AgInTiFlow is the first public layer of our agent stack: browser automation, persistent chat, resumable runs, provider selection, and guarded local tools.
           </p>
           <a class="text-link" href="https://github.com/lazyingart/AgInTiFlow" target="_blank" rel="noreferrer" data-i18n="productLink">
             View AgInTiFlow on GitHub
@@ -108,36 +117,36 @@
       <section id="systems" class="cards" aria-label="AgInTi capabilities">
         <article>
           <span class="card-number">01</span>
-          <h3 data-i18n="cardOneTitle">Website Control</h3>
+          <h3 data-i18n="cardOneTitle">Protocol Agents</h3>
           <p data-i18n="cardOneText">
-            Agents that navigate pages, collect context, and complete web tasks while respecting domain and action guardrails.
+            Agents that turn scientific goals into auditable workflow plans with clear assumptions, checkpoints, and approval gates.
           </p>
         </article>
         <article>
           <span class="card-number">02</span>
-          <h3 data-i18n="cardTwoTitle">Operational Agents</h3>
+          <h3 data-i18n="cardTwoTitle">Research Operations</h3>
           <p data-i18n="cardTwoText">
-            Tool-using systems for common terminal work, research, documentation, and repeatable business processes.
+            Tool-using systems for literature review, data handling, documentation, and repeatable scientific operations.
           </p>
         </article>
         <article>
           <span class="card-number">03</span>
-          <h3 data-i18n="cardThreeTitle">Product Interfaces</h3>
+          <h3 data-i18n="cardThreeTitle">Lab Interfaces</h3>
           <p data-i18n="cardThreeText">
-            Clean web applications with provider selection, persisted settings, run history, and conversation continuity.
+            Refined web interfaces with model selection, persisted settings, run history, session memory, and operator visibility.
           </p>
         </article>
       </section>
 
       <section class="section promise">
         <div>
-          <p class="eyebrow" data-i18n="promiseEyebrow">Design principle</p>
-          <h2 data-i18n="promiseTitle">Automation should feel powerful, but never uncontrolled.</h2>
+          <p class="eyebrow" data-i18n="promiseEyebrow">Control principle</p>
+          <h2 data-i18n="promiseTitle">Autonomy must be inspectable before it is trusted.</h2>
         </div>
         <ul>
-          <li data-i18n="promiseOne">Explicit tool permissions before sensitive actions.</li>
-          <li data-i18n="promiseTwo">Readable logs, snapshots, and resumable sessions.</li>
-          <li data-i18n="promiseThree">Provider flexibility across OpenAI-compatible model APIs.</li>
+          <li data-i18n="promiseOne">Explicit permission boundaries before sensitive tool or lab-adjacent actions.</li>
+          <li data-i18n="promiseTwo">Readable logs, snapshots, resumable sessions, and durable experimental context.</li>
+          <li data-i18n="promiseThree">Model-provider flexibility for teams that need speed, privacy, cost control, or frontier reasoning.</li>
         </ul>
       </section>
     </main>
