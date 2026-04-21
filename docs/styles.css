@@ -85,18 +85,13 @@ main,
   align-items: center;
 }
 
-.brand-mark {
-  display: grid;
-  place-items: center;
-  width: 48px;
-  height: 48px;
-  border-radius: 16px 22px 16px 22px;
-  color: #062e2b;
-  background:
-    linear-gradient(135deg, rgba(22, 217, 210, 0.92), rgba(197, 154, 53, 0.72)),
-    #f6fcf6;
+.brand-logo {
+  width: 54px;
+  height: 50px;
+  object-fit: contain;
+  border-radius: 16px;
+  background: #f6fcf6;
   box-shadow: 0 16px 32px var(--shadow);
-  font-weight: 800;
 }
 
 .brand small {
@@ -259,19 +254,14 @@ h3 {
   animation: drift 9s ease-in-out infinite;
 }
 
-.liquid-core {
+.hero-logo {
   position: relative;
-  display: grid;
-  place-items: center;
-  width: min(56%, 210px);
-  aspect-ratio: 1;
-  border-radius: 38% 62% 48% 52%;
-  color: #05312d;
-  background: linear-gradient(135deg, var(--cyan), #f1ce78);
-  font-size: 4.8rem;
-  font-weight: 800;
-  letter-spacing: -0.12em;
-  box-shadow: inset 0 18px 28px rgba(255, 255, 255, 0.48), 0 28px 62px rgba(13, 111, 91, 0.28);
+  width: min(78%, 320px);
+  max-height: 280px;
+  object-fit: contain;
+  border-radius: 34px;
+  background: #f6fcf6;
+  box-shadow: 0 28px 62px rgba(13, 111, 91, 0.28);
 }
 
 .signal-list {
