@@ -288,6 +288,23 @@ h3 {
   padding: 38px;
 }
 
+.product-copy {
+  display: grid;
+  gap: 18px;
+}
+
+.product-copy p {
+  margin-bottom: 0;
+}
+
+.text-link {
+  display: inline-flex;
+  width: fit-content;
+  border-bottom: 2px solid var(--cyan);
+  color: var(--green);
+  font-weight: 800;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(3, 1fr);

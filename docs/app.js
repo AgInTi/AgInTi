@@ -18,6 +18,11 @@ const translations = {
     platformTitle: "Agent products with visible control and durable memory.",
     platformText:
       "We focus on automation that can be inspected, resumed, and trusted: browser agents, shell-assisted workflows, human-in-the-loop dashboards, and productized AI tools.",
+    productEyebrow: "Featured product",
+    productTitle: "AgInTiFlow",
+    productText:
+      "AgInTiFlow is AgInTi's website-control agent for browser automation, persistent chat, resumable runs, provider selection, and guarded local tools.",
+    productLink: "View AgInTiFlow on GitHub",
     cardOneTitle: "Website Control",
     cardOneText:
       "Agents that navigate pages, collect context, and complete web tasks while respecting domain and action guardrails.",
@@ -54,6 +59,11 @@ const translations = {
     platformTitle: "可觀察、可延續、具備長期記憶的智能體產品。",
     platformText:
       "我們專注於能被檢查、能被恢復、能被信任的自動化：瀏覽器智能體、Shell 輔助流程、人機協作儀表板，以及產品化 AI 工具。",
+    productEyebrow: "精選產品",
+    productTitle: "AgInTiFlow",
+    productText:
+      "AgInTiFlow 是 AgInTi 的網站控制智能體，支援瀏覽器自動化、持久對話、可恢復執行、模型供應商選擇與受防護的本地工具。",
+    productLink: "在 GitHub 查看 AgInTiFlow",
     cardOneTitle: "網站控制",
     cardOneText: "智能體可瀏覽頁面、收集上下文並完成網站任務，同時遵守網域與動作防護規則。",
     cardTwoTitle: "營運智能體",
