@@ -36,6 +36,8 @@ Open `http://127.0.0.1:4174`.
 AgInTiLanding/
 ├── README.md
 ├── i18n/                 # Localized README files
+├── tools/
+│   └── website_i18n_prompt_tool.js
 └── docs/
     ├── CNAME             # GitHub Pages custom domain
     ├── index.html        # Landing page
@@ -50,7 +52,7 @@ AgInTiLanding/
 - Keep the top message concise: autonomous labs, faster discovery.
 - Use bright vivid color, clean spacing, and modern lab-tech visuals.
 - Mention AgInTiFlow as the first public product layer.
-- Keep English and Traditional Chinese content available in the live website dropdown.
+- Keep the live website dropdown aligned with the README locale set.
 
 ## Deployment Notes
 
