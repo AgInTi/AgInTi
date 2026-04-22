@@ -36,7 +36,9 @@ AgInTiLanding/
     ├── index.html
     ├── styles.css
     ├── app.js
-    └── assets/aginti-logo.png
+    └── assets/
+        ├── aginti-logo.png
+        └── aginti-logo-transparent.png
 ```
 
 ## 內容方向

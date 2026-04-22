@@ -44,7 +44,8 @@ AgInTiLanding/
     ├── styles.css        # Bright modern visual system
     ├── app.js            # Language dropdown behavior
     └── assets/
-        └── aginti-logo.png
+        ├── aginti-logo.png              # Backward-compatible logo path
+        └── aginti-logo-transparent.png  # Current transparent logo and favicon
 ```
 
 ## Content Direction
