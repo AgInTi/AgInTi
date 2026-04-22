@@ -1,8 +1,16 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-# AgInTi Website
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/figs/banner.png" alt="LazyingArt banner" width="960" />
+</p>
 
-**AgInTi** (`銀銦釱科技股份有限公司`) の明るいランディングサイトです。化学、バイオメディカル、科学オペレーション向けの自律実験室インテリジェンスを中心にしています。
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lazyingart/AgInTiFlow/main/logos/banner-opaque.png" alt="AgInTiFlow banner" width="960" />
+</p>
+
+# AgInTi Inc. Website
+
+**AgInTi Inc.** (`銀銦釱科技股份有限公司`) の明るいランディングサイトです。化学、バイオメディカル、科学オペレーション向けの自律実験室インテリジェンスを中心にしています。
 
 サイト: `https://agent.lazying.art/`
 

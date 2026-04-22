@@ -1,8 +1,16 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-# AgInTi Website
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/figs/banner.png" alt="LazyingArt banner" width="960" />
+</p>
 
-Landing site sáng cho **AgInTi** (`銀銦釱科技股份有限公司`), tập trung vào trí tuệ phòng thí nghiệm tự động cho hóa học, y sinh và vận hành khoa học.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lazyingart/AgInTiFlow/main/logos/banner-opaque.png" alt="AgInTiFlow banner" width="960" />
+</p>
+
+# AgInTi Inc. Website
+
+Landing site sáng cho **AgInTi Inc.** (`銀銦釱科技股份有限公司`), tập trung vào trí tuệ phòng thí nghiệm tự động cho hóa học, y sinh và vận hành khoa học.
 
 Trang web: `https://agent.lazying.art/`
 

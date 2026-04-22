@@ -1,8 +1,16 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
-# AgInTi Website
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/figs/banner.png" alt="LazyingArt banner" width="960" />
+</p>
 
-**AgInTi**(`銀銦釱科技股份有限公司`)의 밝은 랜딩 사이트입니다. 화학, 바이오메디컬, 과학 운영을 위한 자율 실험실 인텔리전스를 중심으로 합니다.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lazyingart/AgInTiFlow/main/logos/banner-opaque.png" alt="AgInTiFlow banner" width="960" />
+</p>
+
+# AgInTi Inc. Website
+
+**AgInTi Inc.**(`銀銦釱科技股份有限公司`)의 밝은 랜딩 사이트입니다. 화학, 바이오메디컬, 과학 운영을 위한 자율 실험실 인텔리전스를 중심으로 합니다.
 
 사이트: `https://agent.lazying.art/`
 

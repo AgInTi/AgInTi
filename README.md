@@ -1,13 +1,21 @@
 [English](README.md) · [العربية](i18n/README.ar.md) · [Español](i18n/README.es.md) · [Français](i18n/README.fr.md) · [日本語](i18n/README.ja.md) · [한국어](i18n/README.ko.md) · [Tiếng Việt](i18n/README.vi.md) · [中文 (简体)](i18n/README.zh-Hans.md) · [中文（繁體）](i18n/README.zh-Hant.md) · [Deutsch](i18n/README.de.md) · [Русский](i18n/README.ru.md)
 
-# AgInTi Website
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lachlanchen/lachlanchen/main/figs/banner.png" alt="LazyingArt banner" width="960" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lazyingart/AgInTiFlow/main/logos/banner-opaque.png" alt="AgInTiFlow banner" width="960" />
+</p>
+
+# AgInTi Inc. Website
 
 ![GitHub Pages](https://img.shields.io/badge/Hosting-GitHub%20Pages-222222?logo=github&logoColor=white)
 ![Domain](https://img.shields.io/badge/Domain-agent.lazying.art-00a896)
 ![Static](https://img.shields.io/badge/Stack-Static%20HTML%2FCSS%2FJS-f97316)
 ![i18n](https://img.shields.io/badge/i18n-11%20languages-1f6feb)
 
-Bright landing site for **AgInTi** (`銀銦釱科技股份有限公司`), positioned around autonomous laboratory intelligence for chemistry, biomedicine, and scientific operations.
+Bright landing site for **AgInTi Inc.** (`銀銦釱科技股份有限公司`), positioned around autonomous laboratory intelligence for chemistry, biomedicine, and scientific operations.
 
 Live site: `https://agent.lazying.art/`
 
